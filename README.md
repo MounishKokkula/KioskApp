@@ -1,6 +1,4 @@
-# KioskApp
-
-Web-based Java Swing Kiosk Application
+# Web-based Java Swing Kiosk Application
 
 Ref:https://dzone.com/articles/web-based-java-swing-kiosk-application
 
