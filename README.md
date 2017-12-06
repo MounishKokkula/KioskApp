@@ -1,5 +1,7 @@
 # KioskApp
+
 Web-based Java Swing Kiosk Application
+
 Ref:https://dzone.com/articles/web-based-java-swing-kiosk-application
 
 A simple Kiosk application using JXBrowser to limit users from accessing all the underling contents and just giving access to the tabs we specify.
